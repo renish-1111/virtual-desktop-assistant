@@ -7,7 +7,7 @@ To set up the Virtual Desktop Assistant, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/virtual-desktop-assistant.git
+    git clone https://github.com/renish-1111/virtual-desktop-assistant.git
     ```
 2. **Navigate to the project directory:**
     ```bash
@@ -30,5 +30,3 @@ To set up the Virtual Desktop Assistant, follow these steps:
     ```bash
     python main.py
     ```
-
-For more detailed instructions, refer to the [documentation](docs/README.md).
